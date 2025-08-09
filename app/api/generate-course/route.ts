@@ -152,3 +152,6 @@ Return ONLY valid JSON, NO markdown fences, matching exactly:
   /* ------------------------------- 3. Done ---------------------------- */
   return NextResponse.json(courseData)
 }
+
+
+
